@@ -1,0 +1,11 @@
+name = iMarc - Menu modifications
+description = Allows sidebar menu to expand only when active item is clicked.
+core = 7.x
+dependencies[] = menu
+configure = admin/config/imarc_menu
+; Information added by drupal.org packaging script on 2013-06-14
+version = "7.x-1.0-beta5"
+core = "7.x"
+project = "imarc_menu"
+datestamp = "1371232255"
+
